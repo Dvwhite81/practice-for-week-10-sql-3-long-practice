@@ -1,5 +1,6 @@
 --Insert new cat named "Red" born this year
 -- Your code here
+SELECT 'Testing';
 
 --Assign ownership of new cat to George Beatty using subqueries
 -- Your code here
